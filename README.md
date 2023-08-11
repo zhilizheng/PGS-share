@@ -1,1 +1,2 @@
-# PGS-share
+
+PGS weights calculated by SBayesRC
